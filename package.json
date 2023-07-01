@@ -2,7 +2,8 @@
   "name": "map-package",
   "version": "1.0.0",
   "description": "install beautiful intractive maps. it has google maps, ",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "prepare": "npm run build"
