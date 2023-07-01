@@ -1,5 +1,5 @@
 {
-  "name": "map-package",
+  "name": "maps-package",
   "version": "1.0.0",
   "description": "install beautiful intractive maps. it has google maps, ",
   "main": "lib/index.js",
